@@ -27,3 +27,6 @@ This project is a Python-based tool that analyzes sales data and provides visual
    ```bash
    git clone https://github.com/yourusername/project-name.git
    cd project-name
+
+
+   ##Please subscribe to my channel
